@@ -1,4 +1,4 @@
-layout: stacked
+layout: sidebar
 style: dark
 
 plugins:
@@ -35,7 +35,7 @@ projects:
   # facebook: your_username
   # hackerrank: your_username
   # instagram: your_username
-  # keybase: your_username
+  keybase: connorcodes
   # linkedin: your_username
   mastodon: @Connor
   # medium: your_username
