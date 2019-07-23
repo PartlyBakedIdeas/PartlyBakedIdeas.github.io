@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/connorcodes
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://partlybakedideas.github.io
+  * I am connorcodes (https://keybase.io/connorcodes) on keybase.
+  * I have a public key ASDA18KpQP6MBfiEJPPjGKMhG_03oyzAmnCXhL5NF-ELKwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c0d7c2a940fe8c05f88424f3e318a3211bfd37a32cc09a709784be4d17e10b2b0a",
+      "host": "keybase.io",
+      "kid": "0120c0d7c2a940fe8c05f88424f3e318a3211bfd37a32cc09a709784be4d17e10b2b0a",
+      "uid": "81719aa04346ca54d3518c494c40b119",
+      "username": "connorcodes"
+    },
+    "merkle_root": {
+      "ctime": 1563890771,
+      "hash": "cef42b0d4d122625041ffd0c90a4296d29984357654dedd032a2c1ec174cb1678d847872285ff9dd7479d178c46abed8bb5f5012076f7ab5d6e1a7ef8c88af31",
+      "hash_meta": "656afe1fca8414fdbcf9477697526b727366bd71e81c5c336e81c0e78a9da482",
+      "seqno": 5832809
+    },
+    "service": {
+      "entropy": "HpLmnvXOw6JZziww8wIgcWV0",
+      "hostname": "partlybakedideas.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.2.0"
+  },
+  "ctime": 1563890800,
+  "expire_in": 504576000,
+  "prev": "ef052598aead2fbf5031ef0a1e83ffe4f342c522df83eec77c25f87ac25db74b",
+  "seqno": 27,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgwNfCqUD+jAX4hCTz4xijIRv9N6MswJpwl4S+TRfhCysKp3BheWxvYWTESpcCG8Qg7wUlmK6tL79QMe8KHoP/5PNCxSLfg+7HfCX4esJdt0vEIItIgPNtY2874jC827LdmKdXBX3zSIlRRDmxMLNd0nDZAgHCo3NpZ8RAufQ9MnsgM6Zpj1l67ZX3xJLIE31YEOYQiq6m2XzYRpCqq5xTF/fRhCgIFqp3pDM7tsJXlkVfMokVviUSSIWpA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJVctSa5uc8ziDvuA1SeSm1mg4eeZ1cboBBpY554Gcy7o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/connorcodes
+
+==================================================================
