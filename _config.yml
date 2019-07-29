@@ -52,6 +52,11 @@ topics:
     web_url: https://github.com/topics/html5
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png
 
-  - name: CSS
+ - name: CSS
     web_url: https://github.com/topics/css
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+
+ - name: Vim
+    web_url: https://github.com/topics/vim
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png
+ 
